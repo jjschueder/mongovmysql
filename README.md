@@ -1,3 +1,3 @@
 # mongovmysql
 Comparison of Mongo DB with Mysql for twitter data
-Project Members: Joe, Sandesh, Kevin
+Project Members: Joe Schueder, Sandesh, Kevin
